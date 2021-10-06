@@ -93,6 +93,16 @@ a {
     top: 27vh;
 }
 
+/*Work Page*/
+.work-details {
+    width: 50%;
+}
+
+.work-details td {
+    padding: 30px;
+}
+
+
 /*------Media Queries-------*/
 
 
