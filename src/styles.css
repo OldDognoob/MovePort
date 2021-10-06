@@ -116,11 +116,11 @@ a:hover {
 }
 
 /*Work Page*/
-.work-details {
+.work-info {
     width: 50%;
 }
 
-.work-details td {
+.work-info td {
     padding: 30px;
 }
 
@@ -202,11 +202,11 @@ form button {
     }
 
     @media only screen and (max-width: 600px) {
-        .work-details {
+        .work-info {
             width: 80%;
         }
     
-        .work-details td {
+        .work-info td {
             padding: 5px;
         }
     }   
